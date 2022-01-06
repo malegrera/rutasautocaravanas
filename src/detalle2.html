@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./app.js"></script>
+    <script type="module" src="./fecha.js"></script>
+    <title>Ruta segunda</title>
+  </head>
+  <body>
+    <header>
+      <h1>Rutas en autocaravana</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="categoria.html">Volver</a></li>
+          <li><a href="detalle1.html">Ruta 1</a></li>
+          <li><a href="detalle3.html">Ruta 3</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="fondo"></div>
+    <main>
+      <div class="rutas">
+        <h2>Ruta segunda</h2>
+        <img src="globos.jpg" alt="globos aerostáticos">
+      </div>
+      <picture>
+        <source media="(min-width:700px)" srcset="globosextensa.jpg">
+        <source media="(min-width:500px)" srcset="globosmedia.jpg">
+        <img class="globos" src="globospeq.jpg" alt="vista aérea de rutas en globos">
+      </picture>
+      
+<div class="detalle">
+  <p>
+    Aquí puedes ver la duración prevista de la ruta y las ciudades donde se podrá pernoctar.
+  </p>
+  <div>
+  <p>Duración 7 días:</p>
+  <ul>
+    <li>Fecha de inicio: <time class="inicio1" datetime="2021-01-01">01/01/2021</time></li>
+    <li>Fecha de fin: <time class="final1" datetime="2021-01-01">01/01/2021</time></li>
+  </ul>
+
+  <p>Ciudades a visitar:</p>
+  <ul>
+    <li>Madrid</li>
+    <li>Zaragoza</li>
+    <li>Girona</li>
+  </ul>
+  </div>
+  
+</div>
+    </main>
+    <footer>
+      <div>&copy; Pilar Alegre Ramos</div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="categoria.html">Volver</a></li>
+          <li><a href="detalle1.html">Ruta 1</a></li>
+          <li><a href="detalle3.html">Ruta 3</a></li>
+        </ul>
+      </nav>
+      <div class="fecha"></div>
+      <div class="fechac"></div>
+    </footer>
+  </body>
+</html>
