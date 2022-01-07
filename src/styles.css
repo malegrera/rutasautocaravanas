@@ -20,7 +20,7 @@ header {
     min-height: 20vh;
     z-index: 3;
     justify-content: space-around;
-    background-image: url(logotipo.webp);
+    background-image: url("logo.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 90%;
@@ -78,10 +78,10 @@ a:hover {
     width: 100vw;
     height: 70vh;
     background-color: #42665c;
-    background-image: url("route-66_001b81a6.jpg");
+    background-image: url("fondo.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 100%;
     filter: blur(2px);
 }
 
@@ -139,9 +139,9 @@ footer {
     justify-content: space-evenly;
     line-height: 10vh;
     z-index: 3;
-    background-image: url(laika.png);
+    background-image: url("laikaMove3.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 8%;
     background-position: left;
     font-size: small;
 }
@@ -149,12 +149,16 @@ footer {
 .presentacion {
 
     border: 0.5vmin groove var(--verde-ppal);
-    color: var(--verde-ppal);
+    color: cornsilk;
     padding: 1vmin;
     border-radius: var(--radio);
     font-size: large;
     max-width: 90%;
     opacity: 0;
+}
+
+.presentacion h2 {
+    color: cornsilk;
 }
 
 nav.detalle {
@@ -302,6 +306,7 @@ main {
     width: 30vw;
     border: 0.5em groove var(--verde-ppal);
     border-radius: var(--radio);
+
 }
 
 .detalle a {
@@ -502,7 +507,8 @@ header svg {
     .globos {
         width: 80vw;
         height: 20vh;
-        object-fit: contain;
+        object-fit: cover;
+        object-position: top;
     }
 
     .rutas {
