@@ -1,4 +1,4 @@
-29862
+29883
 43/home/usuario/final/proyecto-pec3/main/info1638995223000000000 1
 63/home/usuario/final/proyecto-pec3/main/hooks/post-update.sample1638995223000000000 0
 70/home/usuario/final/proyecto-pec3/main/hooks/prepare-commit-msg.sample1638995223000000000 0
@@ -9,44 +9,54 @@
 44/home/usuario/final/proyecto-pec3/main/hooks1638995223000000000 1
 43/home/usuario/final/proyecto-pec3/main/HEAD1638995223000000000 0
 49/home/usuario/final/proyecto-pec3/.browserslistrc1638995223000000000 0
-67/home/usuario/final/proyecto-pec3/dist/festival-merida.306729d9.jpg1641643988063725128 0
-52/home/usuario/final/proyecto-pec3/dist/detalle3.html1641643991043725184 0
-60/home/usuario/final/proyecto-pec3/dist/index.c398790e.js.map1641643991073725185 0
-59/home/usuario/final/proyecto-pec3/dist/detalle1.ea1aee4d.js1641643991043725184 0
-65/home/usuario/final/proyecto-pec3/dist/globosextensa.7d51e7da.jpg1641643988063725128 0
-61/home/usuario/final/proyecto-pec3/dist/laikaMove.468552c4.png1641643988063725128 0
-60/home/usuario/final/proyecto-pec3/dist/index.5f2b248a.js.map1641643991073725185 0
-57/home/usuario/final/proyecto-pec3/dist/index.0d702139.css1641643991043725184 0
-59/home/usuario/final/proyecto-pec3/dist/favicon.8fe146a8.ico1641643983213725035 0
-53/home/usuario/final/proyecto-pec3/dist/categoria.html1641643991043725184 0
-63/home/usuario/final/proyecto-pec3/dist/detalle1.ea1aee4d.js.map1641643991073725185 0
-51/home/usuario/final/proyecto-pec3/dist/enlaces.html1641643991043725184 0
-59/home/usuario/final/proyecto-pec3/dist/detalle1.af2b2d72.js1641643991043725184 0
-56/home/usuario/final/proyecto-pec3/dist/index.c398790e.js1641643991043725184 0
-61/home/usuario/final/proyecto-pec3/dist/laikaRuta.b7c01def.png1641643988063725128 0
-61/home/usuario/final/proyecto-pec3/dist/globospeq.0368decb.jpg1641643988063725128 0
-58/home/usuario/final/proyecto-pec3/dist/globos.84846af0.jpg1641643988063725128 0
-61/home/usuario/final/proyecto-pec3/dist/index.0d702139.css.map1641643991073725185 0
-61/home/usuario/final/proyecto-pec3/dist/teatropeq.c86ebe8d.jpg1641643988063725128 0
-56/home/usuario/final/proyecto-pec3/dist/ruta.ca02cc7d.jpg1641643988063725128 0
-38/home/usuario/final/proyecto-pec3/dist1641643991073725185 1
+67/home/usuario/final/proyecto-pec3/dist/festival-merida.306729d9.jpg1641655719705919918 0
+63/home/usuario/final/proyecto-pec3/dist/detalle1.ebeddd0f.js.map1641655679295919365 0
+61/home/usuario/final/proyecto-pec3/dist/laikaRuta.7795c498.png1641655679185919364 0
+52/home/usuario/final/proyecto-pec3/dist/detalle3.html1641655725645919999 0
+60/home/usuario/final/proyecto-pec3/dist/index.c398790e.js.map1641655725765920000 0
+59/home/usuario/final/proyecto-pec3/dist/detalle1.ea1aee4d.js1641655725645919999 0
+65/home/usuario/final/proyecto-pec3/dist/globosextensa.7d51e7da.jpg1641655719715919918 0
+61/home/usuario/final/proyecto-pec3/dist/laikaMove.468552c4.png1641655719715919918 0
+60/home/usuario/final/proyecto-pec3/dist/index.5f2b248a.js.map1641655725745920000 0
+56/home/usuario/final/proyecto-pec3/dist/index.d56a3cb1.js1641655679185919364 0
+58/home/usuario/final/proyecto-pec3/dist/globos.3a937a6a.jpg1641655679195919364 0
+61/home/usuario/final/proyecto-pec3/dist/index.be5cf2f4.css.map1641655679295919365 0
+57/home/usuario/final/proyecto-pec3/dist/index.be5cf2f4.css1641655679185919364 0
+57/home/usuario/final/proyecto-pec3/dist/index.0d702139.css1641655725645919999 0
+59/home/usuario/final/proyecto-pec3/dist/favicon.8fe146a8.ico1641655708295919762 0
+59/home/usuario/final/proyecto-pec3/dist/detalle1.ebeddd0f.js1641655679195919364 0
+53/home/usuario/final/proyecto-pec3/dist/categoria.html1641655725645919999 0
+63/home/usuario/final/proyecto-pec3/dist/detalle1.ea1aee4d.js.map1641655725745920000 0
+56/home/usuario/final/proyecto-pec3/dist/logo.8d31b1c9.svg1641655679185919364 0
+51/home/usuario/final/proyecto-pec3/dist/enlaces.html1641655725645919999 0
+59/home/usuario/final/proyecto-pec3/dist/detalle1.af2b2d72.js1641655725655919999 0
+65/home/usuario/final/proyecto-pec3/dist/globosextensa.db72cb5f.jpg1641655679195919364 0
+56/home/usuario/final/proyecto-pec3/dist/index.c398790e.js1641655725655919999 0
+61/home/usuario/final/proyecto-pec3/dist/laikaRuta.b7c01def.png1641655719705919918 0
+61/home/usuario/final/proyecto-pec3/dist/globospeq.0368decb.jpg1641655719715919918 0
+58/home/usuario/final/proyecto-pec3/dist/globos.84846af0.jpg1641655719715919918 0
+61/home/usuario/final/proyecto-pec3/dist/index.0d702139.css.map1641655725745920000 0
+63/home/usuario/final/proyecto-pec3/dist/globosmedia.ce9ac5ea.jpg1641655679195919364 0
+61/home/usuario/final/proyecto-pec3/dist/teatropeq.c86ebe8d.jpg1641655719715919918 0
+56/home/usuario/final/proyecto-pec3/dist/ruta.ca02cc7d.jpg1641655719715919918 0
+38/home/usuario/final/proyecto-pec3/dist1641655725775920001 1
 43/home/usuario/final/proyecto-pec3/README.md1638995223000000000 0
-48/home/usuario/final/proyecto-pec3/src/index.html1641601050362008029 0
+48/home/usuario/final/proyecto-pec3/src/index.html1641652078237875858 0
 47/home/usuario/final/proyecto-pec3/src/fondo.jpg1641495937609596376 0
 46/home/usuario/final/proyecto-pec3/src/fecha.js1638995223000000000 0
-51/home/usuario/final/proyecto-pec3/src/detalle3.html1641643692873719517 0
+51/home/usuario/final/proyecto-pec3/src/detalle3.html1641652145217877131 0
 51/home/usuario/final/proyecto-pec3/src/teatropeq.jpg1638995223000000000 0
 49/home/usuario/final/proyecto-pec3/src/favicon.ico1641600916383244900 0
 51/home/usuario/final/proyecto-pec3/src/carretera.svg1638995223000000000 0
 51/home/usuario/final/proyecto-pec3/src/globospeq.jpg1638995223000000000 0
 57/home/usuario/final/proyecto-pec3/src/globosrecortada.jpg1638961913585796400 0
 55/home/usuario/final/proyecto-pec3/src/teatroextensa.jpg1638995223000000000 0
-52/home/usuario/final/proyecto-pec3/src/categoria.html1641601084922008686 0
+52/home/usuario/final/proyecto-pec3/src/categoria.html1641652128677876816 0
 48/home/usuario/final/proyecto-pec3/src/globos.jpg1638995223000000000 0
 55/home/usuario/final/proyecto-pec3/src/globosextensa.jpg1638995223000000000 0
 73/home/usuario/final/proyecto-pec3/src/festival-merida.jpg_Zone.Identifier1638995223000000000 0
 57/home/usuario/final/proyecto-pec3/src/festival-merida.jpg1638995223000000000 0
-51/home/usuario/final/proyecto-pec3/src/detalle2.html1641601120382009360 0
+51/home/usuario/final/proyecto-pec3/src/detalle2.html1641652138427877002 0
 46/home/usuario/final/proyecto-pec3/src/logo.svg1641513741512342500 0
 73/home/usuario/final/proyecto-pec3/src/globosrecortada.jpg_Zone.Identifier1638995223000000000 0
 53/home/usuario/final/proyecto-pec3/src/teatromedia.jpg1638995223000000000 0
@@ -419,7 +429,7 @@
 93/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/css-color-adjust.js499162500000000000 0
 83/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/webhid.js499162500000000000 0
 83/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/webvtt.js499162500000000000 0
-55/home/usuario/final/proyecto-pec3/src/presentacion.html1638995223000000000 0
+55/home/usuario/final/proyecto-pec3/src/presentacion.html1641652656787886853 0
 91/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/xml-serializer.js499162500000000000 0
 99/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/document-currentscript.js499162500000000000 0
 91/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/input-datetime.js499162500000000000 0
@@ -643,7 +653,7 @@
 66/home/usuario/final/proyecto-pec3/node_modules/bin-build/readme.md1497694548000000000 0
 64/home/usuario/final/proyecto-pec3/node_modules/bin-build/license1497639828000000000 0
 85/home/usuario/final/proyecto-pec3/node_modules/bin-build/node_modules/execa/readme.md1497043771000000000 0
-63/home/usuario/final/proyecto-pec3/dist/detalle1.af2b2d72.js.map1641643991073725185 0
+63/home/usuario/final/proyecto-pec3/dist/detalle1.af2b2d72.js.map1641655725765920000 0
 79/home/usuario/final/proyecto-pec3/node_modules/bin-build/node_modules/execa/lib1641492246489608346 1
 84/home/usuario/final/proyecto-pec3/node_modules/bin-build/node_modules/execa/index.js1497043771000000000 0
 88/home/usuario/final/proyecto-pec3/node_modules/bin-build/node_modules/lru-cache/index.js499162500000000000 0
@@ -1461,6 +1471,7 @@
 63/home/usuario/final/proyecto-pec3/node_modules/follow-redirects1641492283569608226 1
 80/home/usuario/final/proyecto-pec3/node_modules/is-fullwidth-code-point/readme.md499162500000000000 0
 81/home/usuario/final/proyecto-pec3/node_modules/is-fullwidth-code-point/index.d.ts499162500000000000 0
+63/home/usuario/final/proyecto-pec3/dist/teatromedia.7ead2d28.jpg1641655679195919364 0
 79/home/usuario/final/proyecto-pec3/node_modules/is-fullwidth-code-point/index.js499162500000000000 0
 83/home/usuario/final/proyecto-pec3/node_modules/is-fullwidth-code-point/package.json1641492283039608228 0
 78/home/usuario/final/proyecto-pec3/node_modules/is-fullwidth-code-point/license499162500000000000 0
@@ -2041,7 +2052,7 @@
 52/home/usuario/final/proyecto-pec3/node_modules/debug1641492282379608230 1
 66/home/usuario/final/proyecto-pec3/node_modules/filenamify/index.js1528982186000000000 0
 65/home/usuario/final/proyecto-pec3/node_modules/filenamify/license1496344655000000000 0
-51/home/usuario/final/proyecto-pec3/src/detalle1.html1641601112322009206 0
+51/home/usuario/final/proyecto-pec3/src/detalle1.html1641653084487894982 0
 80/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/features/ime.js499162500000000000 0
 92/home/usuario/final/proyecto-pec3/node_modules/acorn-globals/node_modules/acorn/CHANGELOG.md499162500000000000 0
 91/home/usuario/final/proyecto-pec3/node_modules/object.getownpropertydescriptors/polyfill.js499162500000000000 0
@@ -4056,7 +4067,7 @@
 69/home/usuario/final/proyecto-pec3/node_modules/commander/package.json1641492284259608224 0
 80/home/usuario/final/proyecto-pec3/node_modules/object.assign/.github/FUNDING.yml499162500000000000 0
 68/home/usuario/final/proyecto-pec3/node_modules/object.assign/.github1641492256229608315 1
-65/home/usuario/final/proyecto-pec3/dist/teatroextensa.65d7e71b.jpg1641643988063725128 0
+65/home/usuario/final/proyecto-pec3/dist/teatroextensa.65d7e71b.jpg1641655719715919918 0
 96/home/usuario/final/proyecto-pec3/node_modules/exec-buffer/node_modules/cross-spawn/lib/parse.js1488134290000000000 0
 76/home/usuario/final/proyecto-pec3/node_modules/object.assign/dist/browser.js499162500000000000 0
 69/home/usuario/final/proyecto-pec3/node_modules/object.assign/index.js499162500000000000 0
@@ -4614,6 +4625,7 @@
 74/home/usuario/final/proyecto-pec3/node_modules/es-abstract/2016/WeekDay.js499162500000000000 0
 87/home/usuario/final/proyecto-pec3/node_modules/es-abstract/2016/CreateMethodProperty.js499162500000000000 0
 70/home/usuario/final/proyecto-pec3/node_modules/es-abstract/2016/Day.js499162500000000000 0
+61/home/usuario/final/proyecto-pec3/dist/laikaMove.1040c075.png1641655679185919364 0
 89/home/usuario/final/proyecto-pec3/node_modules/es-abstract/helpers/isTrailingSurrogate.js499162500000000000 0
 94/home/usuario/final/proyecto-pec3/node_modules/es-abstract/helpers/isSamePropertyDescriptor.js499162500000000000 0
 74/home/usuario/final/proyecto-pec3/node_modules/es-abstract/helpers/sign.js499162500000000000 0
@@ -5975,6 +5987,7 @@
 73/home/usuario/final/proyecto-pec3/node_modules/indent-string/package.json1641492281349608233 0
 63/home/usuario/final/proyecto-pec3/node_modules/lodash/deburr.js499162500000000000 0
 126/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-cssnano/node_modules/postcss-normalize-positions/CHANGELOG.md499162500000000000 0
+61/home/usuario/final/proyecto-pec3/dist/teatropeq.a44fdb2a.jpg1641655679195919364 0
 61/home/usuario/final/proyecto-pec3/node_modules/.bin/run-p.ps11641492158709608631 0
 75/home/usuario/final/proyecto-pec3/node_modules/lodash/fp/assignInAllWith.js499162500000000000 0
 79/home/usuario/final/proyecto-pec3/node_modules/request-promise-native/lib/rp.js499162500000000000 0
@@ -6640,6 +6653,7 @@
 58/home/usuario/final/proyecto-pec3/node_modules/emojis-list1641492283809608225 1
 91/home/usuario/final/proyecto-pec3/node_modules/@babel/generator/node_modules/source-map/lib1641492243429608356 1
 118/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/modules/es.string.big.js499162500000000000 0
+65/home/usuario/final/proyecto-pec3/dist/teatroextensa.3d43e02a.jpg1641655679195919364 0
 63/home/usuario/final/proyecto-pec3/node_modules/responselike/src1641492252849608326 1
 133/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/modules/web.dom-collections.for-each.js499162500000000000 0
 116/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/internals/is-symbol.js499162500000000000 0
@@ -6944,7 +6958,7 @@
 112/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/es/string/split.js499162500000000000 0
 129/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-terser/node_modules/@parcel/utils/test/input/sourcemap/inline.js499162500000000000 0
 104/home/usuario/final/proyecto-pec3/node_modules/@parcel/packager-html/node_modules/fast-glob/package.json1641492281289608233 0
-49/home/usuario/final/proyecto-pec3/dist/index.html1641643991043725184 0
+49/home/usuario/final/proyecto-pec3/dist/index.html1641655725645919999 0
 152/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/test/input/sourcemap/source-root.js.map499162500000000000 0
 111/home/usuario/final/proyecto-pec3/node_modules/@parcel/babel-ast-utils/node_modules/@parcel/utils/src/is-url.js499162500000000000 0
 123/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/es/string/virtual/fontsize.js499162500000000000 0
@@ -7309,7 +7323,7 @@
 103/home/usuario/final/proyecto-pec3/node_modules/@parcel/package-manager/node_modules/is-number/README.md499162500000000000 0
 122/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/stable/array-buffer/slice.js499162500000000000 0
 122/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/modules/es.object.entries.js499162500000000000 0
-63/home/usuario/final/proyecto-pec3/dist/globosmedia.e30ad2ae.jpg1641643988063725128 0
+63/home/usuario/final/proyecto-pec3/dist/globosmedia.e30ad2ae.jpg1641655719715919918 0
 78/home/usuario/final/proyecto-pec3/node_modules/es-abstract/2021/SecFromTime.js499162500000000000 0
 119/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-cssnano/node_modules/mdn-data/css/syntaxes.schema.json499162500000000000 0
 59/home/usuario/final/proyecto-pec3/node_modules/ow/readme.md499162500000000000 0
@@ -8437,7 +8451,7 @@
 126/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/@parcel/utils/src/dependency-location.js499162500000000000 0
 111/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/@parcel/utils/src/blob.js499162500000000000 0
 107/home/usuario/final/proyecto-pec3/node_modules/@parcel/packager-css/node_modules/postcss/lib/processor.d.ts499162500000000000 0
-56/home/usuario/final/proyecto-pec3/dist/logo.606e4cbf.svg1641643991043725184 0
+56/home/usuario/final/proyecto-pec3/dist/logo.606e4cbf.svg1641655725635919999 0
 68/home/usuario/final/proyecto-pec3/node_modules/object.values/auto.js499162500000000000 0
 125/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-cssnano/node_modules/css-tree/lib/definition-syntax/index.js499162500000000000 0
 128/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/@parcel/utils/lib/relativeBundlePath.js499162500000000000 0
@@ -8722,7 +8736,7 @@
 103/home/usuario/final/proyecto-pec3/node_modules/@parcel/package-manager/node_modules/color-name/index.js499162500000000000 0
 116/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/es/reflect/own-keys.js499162500000000000 0
 95/home/usuario/final/proyecto-pec3/node_modules/postcss-modules/node_modules/postcss/lib/node.js499162500000000000 0
-52/home/usuario/final/proyecto-pec3/dist/detalle2.html1641643991043725184 0
+52/home/usuario/final/proyecto-pec3/dist/detalle2.html1641655725645919999 0
 104/home/usuario/final/proyecto-pec3/node_modules/@parcel/cache/node_modules/fast-glob/out/types/index.d.ts499162500000000000 0
 96/home/usuario/final/proyecto-pec3/node_modules/@parcel/codeframe/node_modules/has-flag/readme.md499162500000000000 0
 77/home/usuario/final/proyecto-pec3/node_modules/highlight.js/styles/vs2015.css499162500000000000 0
@@ -9497,7 +9511,7 @@
 113/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/es/instance/some.js499162500000000000 0
 78/home/usuario/final/proyecto-pec3/node_modules/es-abstract/2017/ArrayCreate.js499162500000000000 0
 75/home/usuario/final/proyecto-pec3/node_modules/sshpk/lib/formats/rfc4253.js1539302377000000000 0
-33/home/usuario/final/proyecto-pec31641643983103725033 1
+33/home/usuario/final/proyecto-pec31641655679865919373 1
 92/home/usuario/final/proyecto-pec3/node_modules/hash-base/node_modules/safe-buffer/index.d.ts499162500000000000 0
 76/home/usuario/final/proyecto-pec3/node_modules/string.prototype.trimend/test1641492249279608337 1
 127/home/usuario/final/proyecto-pec3/node_modules/@parcel/node-libs-browser/node_modules/assert/build/internal/util/comparisons.js499162500000000000 0
@@ -10228,6 +10242,7 @@
 78/home/usuario/final/proyecto-pec3/node_modules/caniuse-lite/data/regions/PF.js499162500000000000 0
 112/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/features/map/of.js499162500000000000 0
 96/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/@parcel1641492277699608245 1
+61/home/usuario/final/proyecto-pec3/dist/globospeq.fd930fea.jpg1641655679195919364 0
 71/home/usuario/final/proyecto-pec3/node_modules/lodash/_LodashWrapper.js499162500000000000 0
 65/home/usuario/final/proyecto-pec3/node_modules/object-is/index.js499162500000000000 0
 120/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/es/typed-array/includes.js499162500000000000 0
@@ -11788,7 +11803,7 @@
 54/home/usuario/final/proyecto-pec3/node_modules/pn/test1641492255409608317 1
 107/home/usuario/final/proyecto-pec3/node_modules/split2/node_modules/readable-stream/lib/_stream_transform.js499162500000000000 0
 103/home/usuario/final/proyecto-pec3/node_modules/@parcel/bundler-default/node_modules/glob-parent/LICENSE499162500000000000 0
-56/home/usuario/final/proyecto-pec3/dist/index.5f2b248a.js1641643991043725184 0
+56/home/usuario/final/proyecto-pec3/dist/index.5f2b248a.js1641655725645919999 0
 114/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-image/node_modules/@parcel/utils/src/sourcemap.js499162500000000000 0
 91/home/usuario/final/proyecto-pec3/node_modules/csso/node_modules/css-tree/lib/syntax/pseudo1641492254759608320 1
 106/home/usuario/final/proyecto-pec3/node_modules/@parcel/runtime-browser-hmr/node_modules/color-name/LICENSE499162500000000000 0
@@ -12922,7 +12937,7 @@
 84/home/usuario/final/proyecto-pec3/node_modules/uri-js/dist/esnext/regexps-uri.js.map499162500000000000 0
 125/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/index.js499162500000000000 0
 128/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-htmlnano/node_modules/purgecss/node_modules/commander/Readme.md499162500000000000 0
-56/home/usuario/final/proyecto-pec3/dist/presentacion.html1641643991043725184 0
+56/home/usuario/final/proyecto-pec3/dist/presentacion.html1641655725645919999 0
 79/home/usuario/final/proyecto-pec3/node_modules/@nodelib/fs.scandir/out/adapters1641492252559608327 1
 85/home/usuario/final/proyecto-pec3/node_modules/ow/dist/source/predicates/boolean.d.ts499162500000000000 0
 62/home/usuario/final/proyecto-pec3/node_modules/semver-truncate1641492280979608234 1
@@ -13386,6 +13401,7 @@
 82/home/usuario/final/proyecto-pec3/node_modules/css-tree/lib/common/adopt-buffer.js499162500000000000 0
 72/home/usuario/final/proyecto-pec3/node_modules/ansi-escapes/package.json1641492280139608237 0
 88/home/usuario/final/proyecto-pec3/node_modules/parcel/node_modules/@parcel/fs/index.d.ts499162500000000000 0
+61/home/usuario/final/proyecto-pec3/dist/carretera.1371a9c2.svg1641655679195919364 0
 102/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-terser/node_modules/has-flag/index.js499162500000000000 0
 116/home/usuario/final/proyecto-pec3/node_modules/@parcel/packager-svg/node_modules/@parcel/utils/src/getCertificate.js499162500000000000 0
 121/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-normalize-timing-functions1641492284109608224 1
@@ -13729,7 +13745,7 @@
 98/home/usuario/final/proyecto-pec3/node_modules/@parcel/node-libs-browser/node_modules/util/support1641492246179608347 1
 112/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-js/node_modules/fast-glob/out/utils/stream.js499162500000000000 0
 78/home/usuario/final/proyecto-pec3/node_modules/css-what/lib/stringify.d.ts.map499162500000000000 0
-50/home/usuario/final/proyecto-pec3/src/enlaces.html1641604782192770456 0
+50/home/usuario/final/proyecto-pec3/src/enlaces.html1641652201757878205 0
 116/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-image/node_modules/fast-glob/out/providers/async.js499162500000000000 0
 70/home/usuario/final/proyecto-pec3/node_modules/iconv-lite/lib/index.js1534968059000000000 0
 106/home/usuario/final/proyecto-pec3/node_modules/postcss-modules-values/node_modules/postcss/docs/guidelines1641492248949608338 1
@@ -15259,6 +15275,7 @@
 92/home/usuario/final/proyecto-pec3/node_modules/parcel/node_modules/@parcel/fs/lib/types.d.ts499162500000000000 0
 76/home/usuario/final/proyecto-pec3/node_modules/parcel/node_modules/commander1641492282049608231 1
 112/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-terser/node_modules/terser/lib/equivalent-to.js499162500000000000 0
+59/home/usuario/final/proyecto-pec3/dist/favicon.b13f945b.ico1641655679185919364 0
 120/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-js/node_modules/@parcel/utils/test/collection.test.js499162500000000000 0
 98/home/usuario/final/proyecto-pec3/node_modules/@parcel/types/node_modules/node-addon-api/nothing.c499162500000000000 0
 95/home/usuario/final/proyecto-pec3/node_modules/parcel/node_modules/fast-glob/out/utils/index.js499162500000000000 0
@@ -17458,6 +17475,7 @@
 110/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/es/string/sup.js499162500000000000 0
 102/home/usuario/final/proyecto-pec3/node_modules/postcss-modules-values/node_modules/postcss/lib/node.js499162500000000000 0
 99/home/usuario/final/proyecto-pec3/node_modules/msgpackr-extract/.prebuilds.tmp/prebuilds/darwin-x641641492260899608300 1
+57/home/usuario/final/proyecto-pec3/dist/fondo.df212578.jpg1641655679185919364 0
 115/home/usuario/final/proyecto-pec3/node_modules/msgpackr-extract/.prebuilds.tmp/prebuilds/darwin-x64/node.abi72.node499162500000000000 0
 67/home/usuario/final/proyecto-pec3/node_modules/fs.realpath/index.js1466015723000000000 0
 94/home/usuario/final/proyecto-pec3/node_modules/bin-wrapper/node_modules/p-cancelable/readme.md1520348405000000000 0
@@ -17973,6 +17991,7 @@
 53/home/usuario/final/proyecto-pec3/node_modules/split21641492279889608238 1
 79/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/lib1641492242529608359 1
 120/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-js/node_modules/fast-glob/out/providers/provider.d.ts499162500000000000 0
+56/home/usuario/final/proyecto-pec3/dist/ruta.e7ee2c05.jpg1641655679195919364 0
 80/home/usuario/final/proyecto-pec3/node_modules/es-abstract/2019/IteratorClose.js499162500000000000 0
 137/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-htmlnano/node_modules/terser/node_modules/source-map/lib/mapping-list.js1526491281000000000 0
 116/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-babel/node_modules/core-js/stable/regexp/index.js499162500000000000 0
@@ -20702,7 +20721,7 @@
 71/home/usuario/final/proyecto-pec3/node_modules/requires-port/.npmignore1415358079000000000 0
 107/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/chalk/package.json1641492284749608222 0
 109/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/chalk/source/util.js499162500000000000 0
-61/home/usuario/final/proyecto-pec3/dist/carretera.c2db2235.svg1641643990583725176 0
+61/home/usuario/final/proyecto-pec3/dist/carretera.c2db2235.svg1641655723905919975 0
 95/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/braces1641492284789608222 1
 108/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/braces/package.json1641492284749608222 0
 103/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-posthtml/node_modules/braces/LICENSE499162500000000000 0
@@ -24107,7 +24126,7 @@
 102/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-svgo/node_modules/braces/lib/utils.js499162500000000000 0
 109/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-image/node_modules/@parcel/utils/lib/blob.js499162500000000000 0
 102/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-svgo/node_modules/braces/lib/parse.js499162500000000000 0
-63/home/usuario/final/proyecto-pec3/dist/teatromedia.8f720774.jpg1641643988063725128 0
+63/home/usuario/final/proyecto-pec3/dist/teatromedia.8f720774.jpg1641655719715919918 0
 115/home/usuario/final/proyecto-pec3/node_modules/@parcel/reporter-dev-server/node_modules/@parcel/utils/src/config.js499162500000000000 0
 103/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-svgo/node_modules/braces/lib/expand.js499162500000000000 0
 102/home/usuario/final/proyecto-pec3/node_modules/css-modules-loader-core/node_modules/strip-ansi/license1424597013000000000 0
@@ -25223,7 +25242,7 @@
 104/home/usuario/final/proyecto-pec3/node_modules/@parcel/core/node_modules/@parcel/utils/src/getRootDir.js499162500000000000 0
 55/home/usuario/final/proyecto-pec3/node_modules/punycode1641492281519608233 1
 106/home/usuario/final/proyecto-pec3/node_modules/@parcel/core/node_modules/@parcel/utils/src/PromiseQueue.js499162500000000000 0
-52/home/usuario/final/proyecto-pec3/dist/detalle1.html1641643991043725184 0
+52/home/usuario/final/proyecto-pec3/dist/detalle1.html1641655725655919999 0
 103/home/usuario/final/proyecto-pec3/node_modules/@parcel/core/node_modules/@parcel/utils/src/ansi-html.js499162500000000000 0
 71/home/usuario/final/proyecto-pec3/node_modules/lodash/fp/curryRightN.js499162500000000000 0
 100/home/usuario/final/proyecto-pec3/node_modules/@parcel/core/node_modules/@parcel/utils/src/config.js499162500000000000 0
@@ -27089,6 +27108,7 @@
 86/home/usuario/final/proyecto-pec3/node_modules/@nodelib/fs.walk/out/readers/async.d.ts499162500000000000 0
 117/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/@nodelib/fs.stat/out/adapters1641492262559608294 1
 123/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/@nodelib/fs.stat/out/adapters/fs.js499162500000000000 0
+60/home/usuario/final/proyecto-pec3/dist/index.d56a3cb1.js.map1641655679295919365 0
 125/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/@nodelib/fs.stat/out/types/index.d.ts499162500000000000 0
 117/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/@nodelib/fs.stat/out/index.js499162500000000000 0
 122/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/@nodelib/fs.stat/out/settings.d.ts499162500000000000 0
@@ -27102,6 +27122,7 @@
 68/home/usuario/final/proyecto-pec3/node_modules/array-equal/README.md1398763016000000000 0
 108/home/usuario/final/proyecto-pec3/node_modules/@parcel/runtime-browser-hmr/node_modules/ansi-styles/index.js499162500000000000 0
 106/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/has-flag/readme.md499162500000000000 0
+67/home/usuario/final/proyecto-pec3/dist/festival-merida.f8b75d65.jpg1641655679185919364 0
 81/home/usuario/final/proyecto-pec3/node_modules/@parcel/core/test/fixtures/context1641492249929608335 1
 102/home/usuario/final/proyecto-pec3/node_modules/@parcel/transformer-postcss/node_modules/to-regex-range1641492284879608222 1
 91/home/usuario/final/proyecto-pec3/node_modules/emphasize/node_modules/has-flag/package.json1641492283799608225 0
@@ -28556,7 +28577,7 @@
 124/home/usuario/final/proyecto-pec3/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/moveElemsAttrsToGroup.js499162500000000000 0
 111/home/usuario/final/proyecto-pec3/node_modules/@parcel/babel-ast-utils/node_modules/fast-glob/out/utils/path.js499162500000000000 0
 112/home/usuario/final/proyecto-pec3/node_modules/@parcel/babel-ast-utils/node_modules/fast-glob/out/utils/index.js499162500000000000 0
-57/home/usuario/final/proyecto-pec3/dist/fondo.83d4a93d.jpg1641643988033725127 0
+57/home/usuario/final/proyecto-pec3/dist/fondo.83d4a93d.jpg1641655719705919918 0
 106/home/usuario/final/proyecto-pec3/node_modules/es-abstract/node_modules/object-inspect/test/browser/dom.js499162500000000000 0
 114/home/usuario/final/proyecto-pec3/node_modules/@parcel/babel-ast-utils/node_modules/fast-glob/out/utils/index.d.ts499162500000000000 0
 109/home/usuario/final/proyecto-pec3/node_modules/@parcel/babel-ast-utils/node_modules/fast-glob/out/utils/fs.js499162500000000000 0

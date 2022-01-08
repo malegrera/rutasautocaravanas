@@ -1,0 +1,535 @@
+:root {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    --verde-ppal: rgb(7, 70, 33);
+    --radio: 2vmin;
+}
+
+body {
+    height: 100vh;
+    color: #f3f1f1;
+}
+
+header {
+    background-color: cornsilk;
+    color: var(--verde-ppal);
+    opacity: 0.8;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    min-height: 20vh;
+    z-index: 3;
+    justify-content: space-around;
+    background-image: url("logo.8d31b1c9.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 90%;
+
+}
+
+h1, h2 {
+    text-align: center;
+    color: var(--verde-ppal);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+
+    margin: 0;
+    padding-left: 0;
+    display: flex;
+    width: 45vw;
+    justify-content: space-between;
+
+}
+
+ul {
+    list-style-type: none;
+    margin-block-start: 0em;
+}
+
+li a {
+    display: block;
+
+
+}
+
+a {
+    color: rgb(7, 70, 33);
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: cornsilk;
+}
+
+a:hover {
+    color: orange;
+}
+
+.fondo {
+    position: fixed;
+    right: 0;
+    top: 20vh;
+    width: 100vw;
+    height: 70vh;
+    background-color: #42665c;
+    background-image: url("fondo.df212578.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    filter: blur(2px);
+}
+
+main {
+    position: fixed;
+    top: 20vh;
+    right: 0;
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+div.ruta {
+    border: 1vmin groove cornsilk;
+    border-radius: var(--radio);
+    width: 20vw;
+    height: 30vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+figure {
+    display: flex;
+    height: 80%;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    background-color: cornsilk;
+    border-radius: var(--radio);
+}
+
+figure img {
+    border-radius: var(--radio);
+}
+
+img {
+    width: 60%;
+    height: auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 10vh;
+    background-color: rgba(250, 250, 250, 0.836);
+    color: rgba(7, 70, 33, 0.836);
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 10vh;
+    z-index: 3;
+    background-image: url("laikaMove.1040c075.png");
+    background-repeat: no-repeat;
+    background-size: 8%;
+    background-position: left;
+    font-size: small;
+}
+
+.presentacion {
+
+    border: 0.5vmin groove var(--verde-ppal);
+    color: cornsilk;
+    padding: 1vmin;
+    border-radius: var(--radio);
+    font-size: large;
+    max-width: 90%;
+    opacity: 0;
+}
+
+.presentacion h2 {
+    color: cornsilk;
+}
+
+nav.detalle {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav.detalle a {
+    color: var(--verde-ppal);
+    text-decoration: none;
+}
+
+nav.detalle a:hover {
+    color: orange;
+}
+
+div.detalle {
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+}
+
+div.enlaces {
+    color: var(--verde-ppal);
+}
+
+div.enlaces p {
+    color: cornsilk;
+}
+
+iframe {
+    height: 25vh;
+    max-width: 90%;
+}
+
+div.enlaces li {
+    text-align: center;
+}
+
+/*ANIMACIONES Y TRANSICIONES*/
+
+@keyframes recorrer {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: 100%;
+    }
+}
+
+.caravana {
+    bottom: 10vh;
+    position: fixed;
+    height: 4vh;
+    width: auto;
+    animation: 25s ease-in 0s infinite normal forwards running recorrer;
+    z-index: 3;
+}
+
+@keyframes aparece {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.presentacion {
+    animation: 5s linear 2s 1 normal forwards running aparece;
+}
+
+nav a {
+    transition: transform 1s, color 1s;
+}
+
+header nav a:hover {
+    transform: translateY(50%) scale(1.5);
+    color: orange;
+}
+
+/*Imágenes*/
+
+figure {
+    overflow: hidden;
+}
+
+figure img {
+    transition: transform 1s;
+}
+
+figure img:hover {
+    transform: scale(1.5);
+}
+
+.fondoclip {
+    position: fixed;
+    left: 0;
+    top: 20vh;
+    width: 100vw;
+    max-width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+}
+
+main {
+    z-index: 2;
+}
+
+.fondoclip img {
+    width: 20vw;
+    animation: 5s linear 0s 1 normal forwards running aparece;
+
+}
+
+.clipeada {
+    clip-path: circle(30%);
+    z-index: 1;
+}
+
+@keyframes elipse {
+    from {
+        clip-path: ellipse(0% 0% at 0% 0%);
+    }
+
+    to {
+        clip-path: ellipse(40% 40% at 50% 70%);
+    }
+}
+
+.fondoclip .elipse {
+    height: 50vw;
+    object-fit: contain;
+    width: 40vw;
+    animation: 10s linear 0s 1 normal forwards running elipse;
+}
+
+.globos {
+    width: 30vw;
+    border: 0.5em groove var(--verde-ppal);
+    border-radius: var(--radio);
+
+}
+
+.detalle a {
+    display: none;
+}
+
+/*Imagen svg animada en presentación*/
+
+svg {
+    width: 17vw;
+    height: auto;
+    border: 1px solid var(--verde-ppal);
+    border-radius: var(--radio);
+}
+
+.rueda {
+    stroke: var(--verde-ppal);
+    stroke-width: 10%;
+    fill: transparent;
+}
+
+.rueda2 {
+    fill: transparent;
+    stroke: cornsilk;
+    stroke-width: 100%;
+    stroke-dasharray: 10, 42;
+}
+
+.ruedap {
+    fill: var(--verde-ppal);
+}
+
+header {
+    overflow: hidden;
+}
+
+header svg {
+    width: 12vw;
+    height: 14vh;
+    overflow: visible;
+    border: none;
+}
+
+.rutas img {
+    width: 10vw;
+    height: auto;
+    border-radius: var(--radio);
+}
+
+.recortados {
+    width: 25vmax;
+    height: 25vmax;
+    object-fit: cover;
+    clip-path: circle(40%);
+}
+
+.fechac {
+    display: none;
+}
+
+/*Media Queries*/
+
+@media (max-width: 700px) {
+    header {
+        font-size: small;
+    }
+
+    main {
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        overflow: hidden;
+        height: auto;
+    }
+
+    div.ruta {
+        width: 60vw;
+        height: 20vh;
+    }
+
+    div.detalle, div.enlaces {
+        width: 60vw;
+        height: auto;
+        text-align: center;
+    }
+
+    figure {
+        flex-direction: row;
+    }
+
+    nav ul {
+        width: 75vw;
+    }
+
+    ul {
+        padding-inline-start: 0;
+    }
+
+    svg {
+        width: 40vw;
+        height: 30vmin;
+    }
+
+    iframe {
+        display: none;
+    }
+
+    .detalle a {
+        display: block;
+    }
+
+    .globos {
+        width: 80vw;
+        height: 20vh;
+        object-fit: cover;
+    }
+
+    .rutas {
+        text-align: center;
+    }
+
+    .rutas img {
+        width: 25vw;
+    }
+
+    .detalle div {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    footer nav {
+        width: 40vw;
+    }
+
+    .fecha {
+        display: none;
+    }
+
+    .fechac {
+        display: block;
+    }
+
+    footer {
+        justify-content: flex-end;
+    }
+
+    footer>div {
+        padding-right: 5vw;
+        padding-left: 5vw;
+    }
+}
+
+@media (max-width: 500px) {
+    header {
+        font-size: x-small;
+    }
+
+    div.ruta, div.enlaces {
+        width: 80vw;
+        height: 60vh;
+        text-align: center;
+    }
+
+    div.ruta {
+        height: 20vh;
+    }
+
+    ul {
+        padding-inline-start: 0;
+    }
+
+    img {
+        width: 80%;
+        height: auto;
+    }
+
+    nav ul {
+        width: 100vw;
+        justify-content: space-around;
+
+    }
+
+    a {
+        text-align: center;
+    }
+
+    footer {
+        font-size: small;
+    }
+
+    footer nav {
+        width: 40vw;
+    }
+
+    svg {
+        width: 50vw;
+        height: 27vh;
+    }
+
+    .globos {
+        width: 80vw;
+        height: 20vh;
+        object-fit: cover;
+        object-position: top;
+    }
+
+    .rutas {
+        text-align: center;
+    }
+
+    .rutas img {
+        width: 20vw;
+    }
+
+    footer>div {
+        padding-right: 3vw;
+        padding-left: 3vw;
+    }
+
+    .fecha {
+        display: none;
+    }
+
+    .fechac {
+        display: block;
+    }
+}
+/*# sourceMappingURL=index.be5cf2f4.css.map */
