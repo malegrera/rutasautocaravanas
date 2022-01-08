@@ -78,7 +78,7 @@ a:hover {
     width: 100vw;
     height: 70vh;
     background-color: #42665c;
-    background-image: url("fondo.jpg");
+    background-image: url("fondo.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -139,7 +139,7 @@ footer {
     justify-content: space-evenly;
     line-height: 10vh;
     z-index: 3;
-    background-image: url("laikaMove.png");
+    background-image: url("laikaMove.webp");
     background-repeat: no-repeat;
     background-size: 8%;
     background-position: left;
